@@ -11,7 +11,7 @@ int main() {
 	cout << "Enter a number. \n";
 	cin >> a;
 if (a!=b):
-	cout << "uh oh! calculator error. Please type something else into the calculator."
+	cout << "uh oh! calculator error. Please type something else into the calculator."; << endl;
 	cout << "Enter a new number. \n";
 	cin >> b;
 		sum = a + b;
