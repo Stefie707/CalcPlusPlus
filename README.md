@@ -1,3 +1,4 @@
 A little c++ project i work on from time to time.
-Off-topic: jump game only being developed on my birthday (14 march) so dont expect updates there.
-Updated with the now advanced: if-statements!
+Coming soon with IMGUI! This'll be its biggest update yet.
+
+# It'll Be an AI-Model mixed with a calculator/so you can use it to cheast hehehe.
